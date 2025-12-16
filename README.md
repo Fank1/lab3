@@ -1,4 +1,10 @@
 # Lab 3 - Steering & Simple Swarm
+
+![til](https://github.com/Fank1/lab3/blob/main/video1.gif?raw=true)
+
+![til](https://github.com/Fank1/lab3/blob/main/video2.gif?raw=true)
+
+
 ### In your own words, what is the difference between a global path / waypoint list, and a local steering behaviour like Seek or Arrive?
 A global path/waypoint list is usually calculated as a finished result through an algoritm. Local steering behaviour is more dynamic: it updates on each frame and reacts to it's environment/other objects. 
 
